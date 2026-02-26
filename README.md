@@ -115,8 +115,8 @@ Tarayıcıda `https://localhost:5001` adresini açın.
 
 ## 👨‍💻 Geliştiriciler
 
-| İsim | Numara |
-|---|---|
+| İsim |
+|---|
 | Mahdi Shahrouei 
 | Melih Yasak 
 
